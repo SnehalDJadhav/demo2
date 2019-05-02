@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="103162" started-at="2019-04-08T16:51:32Z" finished-at="2019-04-08T16:53:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="103162" started-at="2019-04-08T16:51:32Z" finished-at="2019-04-08T16:53:15Z">
+      <class name="com.VisionIt.FreeCrm.TestCases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.VisionIt.FreeCrm.TestCases.LoginPageTest@3ab39c39]" name="setUp" is-config="true" duration-ms="80993" started-at="2019-04-08T22:21:32Z" finished-at="2019-04-08T22:22:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyloginToAppTest()[pri:0, instance:com.VisionIt.FreeCrm.TestCases.LoginPageTest@3ab39c39]" name="verifyloginToAppTest" duration-ms="22145" started-at="2019-04-08T22:22:53Z" finished-at="2019-04-08T22:23:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyloginToAppTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.VisionIt.FreeCrm.TestCases.LoginPageTest@3ab39c39]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-04-08T22:23:15Z" finished-at="2019-04-08T22:23:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.VisionIt.FreeCrm.TestCases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
